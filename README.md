@@ -1,5 +1,11 @@
 
 # Correlation and regression for data analysis
+```
+Name : SANTHOSH KUMAR P
+Reg No : 212224040295
+Department : CSE
+Date : 02.05.2025
+```
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -21,8 +27,6 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-### DEVELOPED BY : SANTHOSH KUMAR P
-### REG NO : 212224040295
 ```
   import numpy as np
   import math
